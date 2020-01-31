@@ -1,0 +1,4 @@
+vo manager kreirav task so create task pri shto odbrav da bide triggered.
+otkako napraviv akaunt na postman go povikav preku nego da se izvrsi pipelinot pri shto
+vo postman ja vnesov url-to od task-ot shto go najdov vo details na task i go vnesov bearer tokenot.
+so send vo postman se izvrsuva pipelinot.
